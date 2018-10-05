@@ -28,3 +28,11 @@ body{
 #subwrapper{
     margin-top:100px;
 }
+
+.radio{
+    padding: 10px;
+}
+input{
+    margin: 10px;
+
+}
